@@ -30,7 +30,7 @@ Exemple : SHLK{eric-dupont_galaxy-s22}
 
 
 
-### X
+### Compte X
 
 Un compte X est renseigné dans le challenge, sur ce compte, il y a le tweet suivant :
 
@@ -40,7 +40,7 @@ Visiblement, il en a gros sur la patate. Son tweet a une réponse !
 
 
 
-![TweetResponse.png](./img/TweetResponse.png.png)
+![TweetResponse.png](./img/TweetResponse.png)
 
 Et toc ! Visiblement on a notre acheteur ! 
 
