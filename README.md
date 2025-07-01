@@ -303,7 +303,20 @@ Alors qu’en tapant simplement **"IronVador"**, son profil apparaît directemen
 
 
 En regardant les courses des amis d’**IronVador7793**, on trouve un ami nommé **"PythonFrench91"**, ce qui est plutôt rare sur Strava.
- Surtout, **"PythonFrench91"** court rue Gavarni dans le 16ᵉ arrondissement, comme notre acheteur d’après son compte Twitter !
+
+Regardons l'activite de **PythonFrench91** :
+
+![run.png](./img/run.png)
+
+
+
+Et ou court-il ? :
+
+![run1.png](./img/run1.png)
+
+
+
+**"PythonFrench91"** court rue Gavarni dans le 16ᵉ arrondissement, comme notre acheteur d’après son compte Twitter !
 
 ![blow.gif](./img/blow.gif)
 
